@@ -6,8 +6,8 @@ Bu dosya, projenin geliştirme sürecini fazlara ve adımlara bölerek detaylı 
 
 ## 🚦 Genel Geliştirme Akışı
 
-1. **Altyapı & Hazırlık**
-2. **Procedural Dungeon Sistemi**
+1. **Altyapı & Hazırlık** (tamamlandı)
+2. **Procedural Dungeon Sistemi** (in progress)
 3. **SpiderCharacter (Çok Bacaklı Karakter)**
 4. **HumanCharacter (İnsan Karakter)**
 5. **Showcase UI & Debug Panel**
@@ -19,7 +19,7 @@ Bu dosya, projenin geliştirme sürecini fazlara ve adımlara bölerek detaylı 
 
 | Faz \ Hafta         | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---------------------|---|---|---|---|---|---|---|---|
-| Altyapı & Hazırlık  |███|   |   |   |   |   |   |   |
+| Altyapı & Hazırlık  |✔️ |   |   |   |   |   |   |   |
 | Dungeon Sistemi     |   |███|███|   |   |   |   |   |
 | SpiderCharacter     |   |   |███|███|   |   |   |   |
 | HumanCharacter      |   |   |   |███|███|   |   |   |
@@ -30,7 +30,7 @@ Bu dosya, projenin geliştirme sürecini fazlara ve adımlara bölerek detaylı 
 
 ---
 
-## Faz 1 – Altyapı & Hazırlık
+## Faz 1 – Altyapı & Hazırlık (tamamlandı)
 
 ### Hedefler
 
@@ -40,14 +40,14 @@ Bu dosya, projenin geliştirme sürecini fazlara ve adımlara bölerek detaylı 
 
 ### Yapılacaklar
 
-- [ ] Proje başlat, klasörleri oluştur
-- [ ] Gerekli plugin ve starter content’i ekle
-- [ ] Temel input ve kamera sistemi kur
-- [ ] Basit bir debug paneli oluştur (örnek butonlar, log gösterimi)
+- [x] Proje başlat, klasörleri oluştur
+- [x] Gerekli plugin ve starter content’i ekle
+- [x] Temel input ve kamera sistemi kur
+- [x] Basit bir debug paneli oluştur (örnek butonlar, log gösterimi)
 
 ---
 
-## Faz 2 – Procedural Dungeon Sistemi
+## Faz 2 – Procedural Dungeon Sistemi (in progress)
 
 ### Hedefler
 
